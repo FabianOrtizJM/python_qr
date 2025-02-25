@@ -1,0 +1,2 @@
+-el repositorio cuenta con el archivo para generar el qr y el otro archivo para ejecutarlo
+-lo que esra comprendido dentro de la carpeta web es un ejemplo de su funcionalidad, debe ser aplicable dependiendo el codigo a utilizar en base a su estructura
